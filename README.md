@@ -1,16 +1,23 @@
-## Hi there 👋
+## Hi everyone, I'm Amalia 
 
-<!--
-**amalia23-hub/amalia23-hub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👩🏻‍💻 I'm an optimistic 28 years old automated software engineer that's eager to learn and improve at any moment. <br>
 
-Here are some ideas to get you started:
+👩🏻‍💻 I've studied Automation and Computers in the Systems Engineering department. <br>
+👩🏻‍🎓 I've graduated in 2021 when I got my master degree in Automated Systems Engineering at Polytechnic University, Romania. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💻 My work experience started with a summer practice in 2018 as a software development technician at Veoneer Romania, an automotive company. 
+During this time I created software requirements, components design and test specifications for different components, working with Visual Studio Code and with markdown.
+
+💻 For almost two years since 2020 I worked for Nokia Networks Romania, a telecommunications company being a technical content development intern and part of both CMS support team and graphic design team.
+Gained experience leading website design projects (working with JavaScript, HTML, CSS), including gathering user requirements, producing code, enhancing designs to wow customers.
+
+💻 Currently working as a flight planner admin for Newrest, a multi-soctor catering company in UK. 
+Using Microsoft Access database management system for scheduling and monitoring flights to make sure we meet customer expectations. 
+
+⚡ Fun fact: I love smart, open and funny people, I have a passion for books & poetry 📚 and I enjoy traveling 🌍 with all my heart. <br>
+⚡ 2nd fun fact: I have a passion for front-end development and on the back-end side I prefer C++.
+
+💙 My favorite motto is indeed: "We shall never know all the good a simple smile can do!". ☺️
+
+
+
