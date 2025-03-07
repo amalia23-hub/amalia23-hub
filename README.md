@@ -5,10 +5,10 @@
 👩🏻‍💻 I've studied Automation and Computers in the Systems Engineering department. <br>
 👩🏻‍🎓 I've graduated in 2021 when I got my master degree in Automated Systems Engineering at Polytechnic University, Romania. 
 
-💻 My work experience started with a summer practice in 2018 as a software development technician at Veoneer Romania, an automotive company. 
+💻 I did my summer practice as a software development technician at Veoneer Romania, an automotive company. 
 During this time I created software requirements, components design and test specifications for different components, working with Visual Studio Code and with markdown.
 
-💻 For almost two years since 2020 I worked for Nokia Networks Romania, a telecommunications company being a technical content development intern and part of both CMS support team and graphic design team.
+💻 I worked for Nokia Networks Romania, a telecommunications company being a technical content development intern and part of both CMS support team and graphic design team.
 Gained experience leading website design projects (working with JavaScript, HTML, CSS), including gathering user requirements, producing code, enhancing designs to wow customers.
 
 💻 Currently working as a flight planner admin for Newrest, a multi-soctor catering company in UK. 
